@@ -1,0 +1,38 @@
+{
+  "name": "Smarthtekno.com",
+  "short_name": "Smarth Tekno",
+  "start_url": "www.smarthtekno.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#01A5AF",
+  "description": "Smarth Tekno adalah blog yang berfokus pada pembahasan teknologi. Meliputi android, aplikasi, blogger, coding, game, gadget dll",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-vSTvIqK-q-k/Xeeeu5hWYFI/AAAAAAAAB4s/QAxKqQAT9GcZNBMq_2wKM7Q0RYRP3VXhACLcBGAsYHQ/s48/fvc.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-vSTvIqK-q-k/Xeeeu5hWYFI/AAAAAAAAB4s/QAxKqQAT9GcZNBMq_2wKM7Q0RYRP3VXhACLcBGAsYHQ/s72/fvc.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-vSTvIqK-q-k/Xeeeu5hWYFI/AAAAAAAAB4s/QAxKqQAT9GcZNBMq_2wKM7Q0RYRP3VXhACLcBGAsYHQ/s96/fvc.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-vSTvIqK-q-k/Xeeeu5hWYFI/AAAAAAAAB4s/QAxKqQAT9GcZNBMq_2wKM7Q0RYRP3VXhACLcBGAsYHQ/s144/fvc.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-vSTvIqK-q-k/Xeeeu5hWYFI/AAAAAAAAB4s/QAxKqQAT9GcZNBMq_2wKM7Q0RYRP3VXhACLcBGAsYHQ/s168/fvc.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-vSTvIqK-q-k/Xeeeu5hWYFI/AAAAAAAAB4s/QAxKqQAT9GcZNBMq_2wKM7Q0RYRP3VXhACLcBGAsYHQ/s192/fvc.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-vSTvIqK-q-k/Xeeeu5hWYFI/AAAAAAAAB4s/QAxKqQAT9GcZNBMq_2wKM7Q0RYRP3VXhACLcBGAsYHQ/s512/fvc.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
